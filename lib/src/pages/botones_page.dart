@@ -34,7 +34,6 @@ class _BotonesPageState extends State<BotonesPage> {
                  color: Colors.blue,
                  textColor: Colors.white,
                  onPressed: () { 
-                   // ignore: unused_local_variable
                    String tipoBoton=('RaisedButton');
                   _actionButton(tipoBoton);
                   },
