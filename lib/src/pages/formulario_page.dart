@@ -98,7 +98,6 @@ final formkey = GlobalKey<FormState>();
                 ),
                    SizedBox(height: 15.0,),
                    Container(child: Text('Incia sesion y unete a la comunidad de Facebook'),)
-                   
               ],),
           ),
         ),
